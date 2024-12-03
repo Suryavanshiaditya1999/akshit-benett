@@ -1,0 +1,24 @@
+- Gitleaks
+- Scripted Pipeline
+- Parameters and Env. Variables
+- Pipeline Syntax
+- Script Approval
+- Jenkins Backup
+- Jenkins Job DSL
+- Custom Jenkins Plugins
+- License Scanning
+- Advanced Scripting with Groovy
+- Remote Execution in Jenkins
+- Version Control Integration
+- Jenkins Troubleshooting
+- Parameterized Builds
+- LDAP
+- GitHub SSO
+- Jenkins Best Practices
+- Jenkins Troubleshooting
+- Extend Shared Library
+- Deployment Strategies
+- Common Problems & Soln In Jenkins
+- Jenkins Configuration FIle
+- Reporting Plugins
+- Dynamic Agent Configuration

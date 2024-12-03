@@ -1,0 +1,14 @@
+- setfacl,getfacl
+- inode
+- ulimit
+- umask
+- ls command
+- Nice
+- Types of variable
+- Shebang
+- free  command
+- enviornment variables in bash
+- truncate
+- find and locate
+- netstat 
+- telnet
